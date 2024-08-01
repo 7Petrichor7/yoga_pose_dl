@@ -3,5 +3,3 @@ pandas
 matplotlib
 tensorflow
 streamlit
-Sys
-Os
